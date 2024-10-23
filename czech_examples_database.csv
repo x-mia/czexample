@@ -5,7 +5,7 @@ bandaska,1991,Proto je dobré mít vždy v ruce <bandasku> s vodou.,0.90909,5.44
 bandaska,1991,ČTÚ v tom tedy létají jak nudle v <bandasce>.,0.905,6.861405695809259,b,"Unknown abbreviation, lacking context."
 bandaska,1991,"To znamená, že je vyrobeno 10 ks <bandasky> na dalších 10 letů?",0.89464,5.665089993178844,b,Lacking context.
 bandaska,1991,Už po 10minutách jsem se cítil jak nudle v <bandasce>.,0.86818,5.916104744374752,b,"Borderline a-b. Lacks context, a bit odd comparison."
-bandaska,1991,Že se vydržíš dívat na celý film o lezení a nenatečou Ti <bandasky> ?,0.85357,4.491943986075265,b,I do not understand from this sentence what does it mean.
+bandaska,1991,Že se vydržíš dívat na celý film o lezení a nenatečou Ti <bandasky>?,0.85357,4.491943986075265,b,I do not understand from this sentence what does it mean.
 bandaska,1991,"Cílem je, aby si každý opravdu do sytosti zalezl a odjel z Lomnice s <bandaskama>.",0.85294,5.823529687225819,b,I do not understand what the keyword in this sentence means.
 bandaska,1991,Dludli to byl překlep - <Bandaska> nebo účel?,0.81111,5.979393920302391,c,Grammatically incorrect.
 bandaska,1991,"Jseš si Lenko jistá, že v té <bandasce> je to tvoje?",0.80769,4.650899741324511,b,Lacking context.
@@ -39,7 +39,7 @@ bandaska,1991,To s tím stk by mě taky zajímalo propadla mě stk na <bandasce>
 bandaska,1991,"kdybych měl ze všeho sundávat <bandasky> tak nedělám celý rok nic jinýho a ještě budou otřískaný, v suchu skladuju jen čerstvě nachromované které mají stejně už vnitřek dávno chycený [ventil] (8.12.2017 22:22:40)",0.0,5.199848830327392,c,Noisy.
 bandaska,1991,"Tak tady jsem vám natočil jak jsem uchytil čidlo na teplotu, a jak to teď startuje bez problémů ať je 16°C nebo předchiozí videa v 7°C. Studený start +60% a nyní na režim auto +10%, jelikož na mod e85 +20% je moc na současný e74 co mám v <bandasce>. http://youtu.be/i_0CvHiGakk",0.0,5.34568510055542,c,"Noisy, contains links, abbreviations."
 bandaska,1991,", úniky sa zmenšili, zmena výkonu motora nepozorovateľná, štarty bezproblémové, niečo na tom bude, aj keď je jasné, že to je iba recyklát základového oleja s nejakými prídavkami, čo sa ihneď zachytia vo filtri, ale funguje. - varujem pred olejmi v čiernych <bandaskách> , hrubo a draho som na ne doplatil...nekupovať!",0.0,4.522727755121156,c,"Different language, incomplete, too long."
-demotivující,1965,Každý týden navíc je pak věčnost a negativní test je <demotivující>.,0.9125,4.421486056934704,"Borderline a-b, the keyword is clear but the sentence structure is a bit incomplete, lacks context.","Borderline a-b, the keyword is clear but the sentence structure is a bit incomplete, lacks context."
+demotivující,1965,Každý týden navíc je pak věčnost a negativní test je <demotivující>.,0.9125,4.421486056934704,a,"Borderline a-b, the keyword is clear but the sentence structure is a bit incomplete, lacks context."
 demotivující,1965,Každopádně tato formulace je pro mladé lékaře hrubě <demotivující>.,0.905,3.8818300207455954,b,Lacks context.
 demotivující,1965,"Dokážu pochopit, že po mnoha pokusech pro vás může být současný stav <demotivující>.",0.89667,4.081652684567066,a,"Broderline a-b, it is clear what the keyword means, maybe lacks context."
 demotivující,1965,"Bohužel zde vidím velký vliv okolního, <demotivujícího> prostředí.",0.8825,2.920422223210335,b,Lacks context.
@@ -105,12 +105,12 @@ holdovat,11906,"Je jedno, zda jste hráč deskovek, Dračího doupěte či <hold
 holdovat,11906,"Cyklistické helmy jsou zcela běžnou výbavou každého, kdo <holduje> tomuto sportu ať už aktivně nebo jen rekreačně, v přírodě nebo na lesních cestách.",0.74769,4.327559245410173,a,"Borderline, too long but clear."
 holdovat,11906,"Když mě někdo přepadne na ulici, určitě jich tolik nikdy nepřijede,"" rozčilovala se žena, jež marihuaně údajně <neholduje>.",0.74576,4.291409258875582,b,Lacks context.
 holdovat,11906,"A tak dodám jediné, a to, že jestli jste fanoušky této série a <holdujete> adventurám, pak by nestáhnout tento kousek byl skutečný hřích.",0.71667,5.112813237439031,b,Lacks context.
-holdovat,11906,"Například můj kolega z kanceláře <holduje> zdejší verzi tataráku Sok lek, což jsou plátky syrového masa smíchané s kořením a zalité velkorysou porcí studené krve.",0.69259,3.734128800809384,a,"Borderline, too long and the keyword is not that central."
+holdovat,11906,"Například můj kolega z kanceláře <holduje> zdejší verzi tataráku Sok lek, což jsou plátky syrového masa smíchané s kořením a zalité velkorysou porcí studené krve.",0.69259,3.734128800809384,b,"Borderline, too long and the keyword is not that central."
 holdovat,11906,"Kazeta má na tehdejší poměry velice povedený zvuk a už z toho důvodu ""Evilive"" zaujalo i ty příznivce, kteří death-grindu nikdy <neholdovali>.",0.6925,3.997813479466872,b,Lacks context.
 holdovat,11906,"Ti, kteří <neholdují> vínu, se mohou zdržet u jezera a využít slunečného počasí ke koupeli či k vyjížďce na loďce k jednomu ze dvou ostrůvků uprostřed jezera.",0.68,2.4592623613774776,b,"Borderline, the keyword is not that central, too long."
 holdovat,11906,"Nečetl jsem nikdy titulek ""Kulhající Klaus zavítal...""a pokud jde o Havla, je známo, že <holdoval> alkoholu přes míru.",0.665,3.56615492105484,b,"Opinionated, political, needs context."
 holdovat,11906,"Kozorohové totiž stárnou naopak - takže z mladých rozhněvaných mužů, kteří <holdují> knihovnám a starému nábytku se stanou dědečci na kolečkových bruslích, tančící na diskotékách s láskou k cestování.",0.6125,2.884301305896249,b,Too long.
-holdovat,11906,"Chápejte, pro někoho, kdo fakt <neholduje> jakýmkoliv broskvovým odstínům a pořád si na ně zvyká a snaží se je zakomponovat do kosmetické rutiny (páč zjevně umí lichotit), je to objev.",0.55597,2.687656177083652,a,"Borderline, too long but the keyword is central and clear."
+holdovat,11906,"Chápejte, pro někoho, kdo fakt <neholduje> jakýmkoliv broskvovým odstínům a pořád si na ně zvyká a snaží se je zakomponovat do kosmetické rutiny (páč zjevně umí lichotit), je to objev.",0.55597,2.687656177083652,a,"Borderline, too long but the keyword is central and clear, requires correcting."
 holdovat,11906,"No a pak zbývá ještě ten antisemitismus ""pravicový"" či ""neonacistický"", který nemůže Židy vystát, ať dělají, co dělají, jemuž <holduje> poměrně mizivé procento a o němž ostatně víme, že je taky levicový.",0.5,4.626641210075468,b,"Too long, political."
 holdovat,11906,"Bílým tužkám moc <neholduji> a nepoužívám je, ale mám je doma, co kdyby náhodou :D",0.3125,1.957531840801239,c,Contains emojis.
 holdovat,11906,"Divergencím moc <neholduji>, ale nemusím být žádný lumen, abych si to dělal takto analyticky složité.",0.31111,3.114887941678365,b,Lacks context.
@@ -224,7 +224,7 @@ svalnatý,11983,"Krk je dobré délky, čistý a <svalnatý>.",0.87778,3.8215570
 svalnatý,11983,"Že i šumivé víno může být pití pro muže, si dnes dokáže přiznat kdejaký <svalnatý> chlapák.",0.875,2.820275330543518,b,Sexist.
 svalnatý,11983,Nezkoušejte slečny ve výlohách fotit – během sekundy se vynoří <svalnatý> muž a vy přijdete o foťák!,0.875,2.6560097533113813,b,"Borderline, not sure about the content."
 svalnatý,11983,"A konečně se taky dostáváme, jak hlásá nadpis článku, ke <svalnatému> tělu vína.",0.875,4.226932545808646,b,Lacks context.
-svalnatý,11983,"Na první pohled <svalnatý>, oblíbený a krásný muž, o kterého stojí každá žena.",0.875,4.374497488828806,b,"Lacks content, sexist."
+svalnatý,11983,"Na první pohled <svalnatý>, oblíbený a krásný muž, o kterého stojí každá žena.",0.875,4.374497488828806,b,"Lacks context, sexist."
 svalnatý,11983,"Několik věrných fanoušků její odpověď na nenávistný komentář dokonce podpořilo, stejně jako její <svalnatou> postavu.",0.875,3.9896787079175313,b,Lacks context.
 svalnatý,11983,"Muž byl v minulosti snad velmi <svalnatý>, ale nyní z něj byla vychrtlá chodící mrtvola.",0.875,3.495497853954633,a,"Keyword is central, it is clear."
 svalnatý,11983,"To jsou taky krásné a přece mírně <svalnaté> dámy, a kam to až dotáhly!",0.87187,3.790160079513277,b,Lacks context.

@@ -1,7 +1,7 @@
 # czexample
 ## Dataset for evaluating dictionary examples in the Czech language
 
-About the dataset compilation and annotation guidlines read more [here](https://raslan2024.nlp-consulting.net/).
+About the dataset compilation and annotation guidelines, read more [here](https://raslan2024.nlp-consulting.net/).
 
 ### Requirements
 * [Pandas](https://pandas.pydata.org/)
@@ -16,6 +16,6 @@ python main.py --exam_df EXAM_DF --word WORD --stem STEM --freq FREQ --output OU
 ```
 Example:
 ```bash
-python main.py --exam_df example.csv --word bandaska --stem bandas --freq 1991 --output result.csv
+python main.py --exam_df bandaska.csv --word bandaska --stem bandas --freq 1991 --output bandaska_processed.csv
 ```
 

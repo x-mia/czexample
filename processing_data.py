@@ -3,14 +3,11 @@ import re
 
 def add_brackets(text, stem):
     pattern = rf'\b({stem}\w*)\b'
-    return re.sub(pattern, r'<\1>', text)
+    return re.sub(pattern, r'<\1>', text, flags=re.IGNORECASE)
 
 def clean_sentence(text):
-    # Remove <s> and </s> tags
     text = re.sub(r'<\/?s>', '', text)
-    # Remove spaces before the period
     text = re.sub(r'\s+\.', '.', text)
-    # Strip any leading/trailing spaces
     return text.strip()
 
 

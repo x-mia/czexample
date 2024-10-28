@@ -24,7 +24,7 @@ if __name__ == "__main__":
     parser.add_argument("--exam_df", type=str, help="Path to the dataframe with examples")
     parser.add_argument("--word", type=str, help="Full word")
     parser.add_argument("--stem", type=str, help="Full word's stem")
-    parser.add_argument("--freq", type=str, help="Occurrence of the word")
+    parser.add_argument("--freq", type=int, help="Occurrence of the word")
     parser.add_argument("--output", type=str, help="Path to save the dataframe")
 
     args = parser.parse_args()
